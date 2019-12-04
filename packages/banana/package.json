@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "sillyname": "0.0.3"
+  },
+  "devDependencies": {
+    "lerna-semantic-release": "^9.1.0"
   }
 }
